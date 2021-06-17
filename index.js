@@ -23,3 +23,8 @@ function CheckTask() {
 function testCompleted() {
     console.log('testCompleted: ', testCompleted);
 }
+
+//doneTask
+function doneTask() {
+    console.log('doneTask: ', doneTask);
+}
