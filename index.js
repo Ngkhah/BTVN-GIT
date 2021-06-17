@@ -28,3 +28,8 @@ function testCompleted() {
 function doneTask() {
     console.log('doneTask: ', doneTask);
 }
+
+//feture/Feture1
+function Feture1() {
+    console.log('Feture1: ', Feture1);
+}
