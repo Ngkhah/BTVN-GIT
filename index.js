@@ -33,3 +33,7 @@ function doneTask() {
 function Feture1() {
     console.log('Feture1: ', Feture1);
 }
+
+function done_f1() {
+    console.log('done_f1: ', done_f1);
+}
