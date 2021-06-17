@@ -46,3 +46,7 @@ function done_f1() {
 function done_f2() {
     console.log('done_f2: ', done_f2);
 }
+
+function done_All() {
+    console.log('done_All: ', done_All);
+}
