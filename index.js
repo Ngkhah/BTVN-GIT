@@ -38,3 +38,7 @@ function Feture1() {
 function Feture2() {
     console.log('Feture2: ', Feture2);
 }
+
+function done_f1() {
+    console.log('done_f1: ', done_f1);
+}
