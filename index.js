@@ -55,3 +55,7 @@ function done_All() {
 function BT_Buoi1() {
     console.log('BT_Buoi1: ', BT_Buoi1);
 }
+//buoi 2
+function BT_Buoi2() {
+    console.log('BT_Buoi2: ', BT_Buoi2);
+}
