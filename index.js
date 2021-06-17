@@ -33,3 +33,8 @@ function doneTask() {
 function Feture1() {
     console.log('Feture1: ', Feture1);
 }
+//feture/Feture2
+
+function Feture2() {
+    console.log('Feture2: ', Feture2);
+}
