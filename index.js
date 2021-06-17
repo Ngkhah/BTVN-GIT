@@ -50,7 +50,6 @@ function done_f2() {
 function done_All() {
     console.log('done_All: ', done_All);
 }
-<<<<<<< HEAD
 
 //buoi 1
 function BT_Buoi1() {
@@ -59,9 +58,12 @@ function BT_Buoi1() {
 //buoi 2
 function BT_Buoi2() {
     console.log('BT_Buoi2: ', BT_Buoi2);
-=======
+}
 //buoi 3
 function BT_Buoi3() {
     console.log('BT_Buoi3: ', BT_Buoi3);
->>>>>>> buoi_3
+}
+//Bai tap
+function All_BaiTap() {
+    console.log('All_BaiTap: ', All_BaiTap);
 }
