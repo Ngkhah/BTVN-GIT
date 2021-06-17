@@ -50,3 +50,7 @@ function done_f2() {
 function done_All() {
     console.log('done_All: ', done_All);
 }
+//buoi 2
+function BT_Buoi2() {
+    console.log('BT_Buoi2: ', BT_Buoi2);
+}
